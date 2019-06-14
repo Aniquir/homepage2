@@ -1,0 +1,33 @@
+body {
+    background: #3abcd3;
+}
+
+h2 {
+    color: #1460AA;
+}
+
+header {
+    color: orangered;
+}
+
+.sectionHeader {
+    color: blueviolet;
+    font-size: 64px;
+}
+.diaryHeader {
+    color: #1465fA;
+    font-size: 32px;
+}
+
+p {
+    color: crimson;
+}
+
+.mainHeader {
+    color: crimson;
+}
+
+.daysHeader {
+    color: blue;
+    font-size: 30px;
+}
